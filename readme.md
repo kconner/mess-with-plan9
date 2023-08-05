@@ -18,3 +18,7 @@
   - In UTM, deselect the ISO.
   - Start the VM, log in, then `fshalt`.
 - Edit the VM, name it "9front template". Clone it and use the clone thereafter.
+
+## Now what
+
+Hit up a search engine and let's get weird
