@@ -49,3 +49,4 @@ Hit up a search engine and let's get weird
         - Go came to the table with greener threads, but then, as neat as channels are, you still have to be responsible for them, and these days we want safety and neatness.
         - Erlang had that right, but also doesn't get used because it's heavy elsewhere.
         - Swift's concurrency, macro, and linear type features look like around 2025 it may be the language that systems programmers could most benefit from but least want to be associated with. In the Plan 9 world, LLVM must already be many bridges too far.
+- [WhatIsNotInPlanNine](http://wiki.c2.com/?WhatIsNotInPlanNine)… Aha, I was looking for a way to solve the same problem as `find`.

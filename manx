@@ -1,0 +1,4 @@
+#!/bin/rc
+# Move to $home/bin/rc/
+# then inspect ns to see how /bin binds that folder
+man -t $1 | lp -dstdout | page -w -p90
