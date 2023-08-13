@@ -1,4 +1,4 @@
 #!/bin/rc
-# Move to $home/bin/rc/
+# Move to $home/bin/rc/ and chmod it
 # then inspect ns to see how /bin binds that folder
-man -t $1 | page -w -p90
+man -t $* | page -w
