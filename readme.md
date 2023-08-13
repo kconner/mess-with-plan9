@@ -50,3 +50,6 @@ Hit up a search engine and let's get weird
         - Erlang had that right, but also doesn't get used because it's heavy elsewhere.
         - Swift's concurrency, macro, and linear type features look like around 2025 it may be the language that systems programmers could most benefit from but least want to be associated with. In the Plan 9 world, LLVM must already be many bridges too far.
 - [WhatIsNotInPlanNine](http://wiki.c2.com/?WhatIsNotInPlanNine)… Aha, I was looking for a way to solve the same problem as `find`.
+- Compare one of the authors' viewpoints before and after Plan 9:
+    - [cat -v Considered Harmful](http://harmful.cat-v.org/cat-v/) and [Program Design in the UNIX Environment](http://harmful.cat-v.org/cat-v/unix_prog_design.pdf) (1983)
+    - [The Good, the Bad, and the Ugly: The Unix Legacy](http://doc.cat-v.org/bell_labs/good_bad_ugly/) (2001)
