@@ -53,3 +53,4 @@ Hit up a search engine and let's get weird
 - Compare one of the authors' viewpoints before and after Plan 9:
     - [cat -v Considered Harmful](http://harmful.cat-v.org/cat-v/) and [Program Design in the UNIX Environment](http://harmful.cat-v.org/cat-v/unix_prog_design.pdf) (1983)
     - [The Good, the Bad, and the Ugly: The Unix Legacy](http://doc.cat-v.org/bell_labs/good_bad_ugly/) (2001)
+- [adventuresin9 on YouTube](https://www.youtube.com/@adventuresin9797)
